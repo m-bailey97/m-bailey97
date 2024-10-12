@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-bailey97
 - 👀 I’m interested in Machine Learning & AI
-- 🌱 I’m currently learning Java, Python, SQL
+- 🌱 I’m currently learning Java, Python, SQL, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
