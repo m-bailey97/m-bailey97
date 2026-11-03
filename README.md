@@ -1,9 +1,17 @@
 - 👋 Hi, I’m @m-bailey97
-- 👀 I’m interested in Machine Learning & AI, Robotics, Cybersecurity, Quant Finance, Quantum computing, 
-- 🌱 I’m currently learning Java, Python, SQL, C++, Rust, CSS, HTML, JavaScript
+- 
+- 👀 I’m interested in: Systems Programming, GPU Kernel Engineering
+-  Machine Learning & AI, Cybersecurity
+-  
+- 🌱 I’m currently learning Java, Python, SQL, C++, Rust, Lean4
+- (CSS, HTML, JavaScript)
+- 
 - 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me ...
+- 
 - 😄 Pronouns: He/him
+- 
 - ⚡ Fun fact: ...
 
 <!---
